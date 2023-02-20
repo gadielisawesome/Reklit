@@ -9,7 +9,7 @@ For some reason, LanSchool runs at the user-level without ANY escalation at all.
 I'm assuming this is so it can capture your screen. Just a guess.
 
 But I think you know the script does now.
-(it literally just kills the process running on a loop so it can't restart)
+(It literally just kills the process running on a loop so it can't restart)
 
 ### How to install it
 
