@@ -22,10 +22,10 @@ If your computer is very locked down, these methods may not work at all.
 ```
 CONTINUE AT YOUR OWN RISK! I AM NOT RESPONSIBLE IF YOU GET CAUGHT FOR USING IT!
 ```
-* [.NET Framework](http://www.dropwizard.io/1.0.2/docs/) - Used for computers with more freedom
+* [.NET Framework](https://github.com/gadielisawesome/NoSchool/releases/latest/download/NoSchool_NET.exe) - Used for computers with more freedom
 Using this version takes no effort. Just open it, and it does all the magic in the background.
  
-* [Powershell](https://maven.apache.org/) - Used for more locked down environments
+* [Powershell](https://github.com/gadielisawesome/NoSchool/releases/latest/download/NoSchool_PS.zip) - Used for more locked down environments
 For this one, it installs to "C:\NoSchool" after clicking the Install NoSchool shortcut.
 You'll need to extract the ZIP file before you do this or it will not work!
 
