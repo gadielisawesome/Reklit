@@ -1,4 +1,4 @@
-# NoSchool. The anti-monitoring software for people who don't like work.
+# NoSchool. The anti-monitoring software for people who don't like to do their work.
 Stops LanSchool from running on your system using some sort-of simple PowerShell scripts and shortcuts.
 This works on LanSchool Classic and LanSchool Air.
 
