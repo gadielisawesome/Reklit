@@ -1,4 +1,9 @@
-# NoSchool. The anti-monitoring software for people who don't like to do their work.
+```
+NoSchool has changed its name to Reklit.
+Repository name has been changed, and download links are broken. Use the releases page for working downloads until I fix it. 
+```
+
+# Reklit. The anti-monitoring software for people who don't like to do their work.
 Stops LanSchool from running on your system using some sort-of simple PowerShell scripts and shortcuts.
 This works on LanSchool Classic and LanSchool Air.
 
@@ -22,11 +27,11 @@ If your computer is very locked down, these methods may not work at all.
 ```
 CONTINUE AT YOUR OWN RISK! I AM NOT RESPONSIBLE IF YOU GET CAUGHT FOR USING IT!
 ```
-* [.NET Framework](https://github.com/gadielisawesome/NoSchool/releases/latest/download/NoSchool_NET.exe) - Used for computers with more freedom
+* [.NET Framework](https://github.com/gadielisawesome/Reklit/releases/latest/download/Reklit.exe) - Used for computers with more freedom
 Using this version takes no effort. Just open it, and it does all the magic in the background.
  
-* [Powershell](https://github.com/gadielisawesome/NoSchool/releases/latest/download/NoSchool_PS.zip) - Used for more locked down environments
-For this one, it installs to "C:\NoSchool" after clicking the Install NoSchool shortcut.
+* [Powershell](https://github.com/gadielisawesome/Reklit/releases/latest/download/Reklit.zip) - Used for more locked down environments
+For this one, it installs to "C:\Reklit" after clicking the Install Reklit shortcut.
 You'll need to extract the ZIP file before you do this or it will not work!
 
 ## License (GNU Public License)
